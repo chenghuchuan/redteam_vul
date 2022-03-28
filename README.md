@@ -210,4 +210,15 @@
 * [2021.03.10] -  [齐治堡垒机未授权RCE](https://www.seebug.org/vuldb/ssvid-98383)
 * [2021.03.10] -  [齐治堡垒机远程代码执行](https://forum.ywhack.com/viewthread.php?tid=1523)
 
+
+## 九丶spring
+
+* [2022.03.28] -  [Spring_Cloud_Gateway_Actuator_API_SpEL表达式注入命令执行（CVE-2022-22947）](https://vulhub.org/#/environments/spring/CVE-2022-22947/)
+* [2022.03.28] -  [Spring Cloud Function_SPEL表达式注入漏洞_RCE](https://github.com/cckuailong/spring-cloud-function-SpEL-RCE)
+## 十丶log4j2
+
+* [2022.03.28] -  [2021-log4j2漏洞复现CVE-2021-44228](https://www.jianshu.com/p/59ae546412ed)
+## 十一丶Microsoft Exchange
+* [2022.03.28] -  [Microsoft Exchange ProxyLogon RCE](https://www.rapid7.com/db/modules/exploit/windows/http/exchange_proxylogon_rce/)
+* 
 此项目不定期进行更新......
