@@ -61,6 +61,7 @@
 * [2021.03.08] - ⚒️[Microsoft Exchange SSRF（CVE-2021-26855）](https://github.com/GreyOrder/CVE-2021-26855)
 * [2021.01.07] - [Exchange 历史漏洞合集](https://sploitus.com/?query=Exchange#exploits)
 * [2021.03.10] - [Microsoft Exchange Proxylogon漏洞利用链](https://www.praetorian.com/blog/reproducing-proxylogon-exploit/)
+* [2022.03.28] - [Microsoft Exchange ProxyLogon RCE](https://www.rapid7.com/db/modules/exploit/windows/http/exchange_proxylogon_rce/)
 
 > Coremail
 
@@ -174,6 +175,11 @@
 * [2021.01.07] - [高级的MSSQL注入技巧](https://xz.aliyun.com/t/8513)
 * [2021.03.08] - [MSSQL使用CLR程序集来执行命令](https://xz.aliyun.com/t/6682)
 
+> PostgreSQL
+
+* [2022.03.28] - [PostgreSQL 高权限命令执行漏洞（CVE-2019-9193）](https://vulhub.org/#/environments/postgres/CVE-2019-9193/)
+* [2022.03.28] - [PostgreSQL 提权漏洞（CVE-2018-1058）](https://vulhub.org/#/environments/postgres/CVE-2018-1058/)
+
 ## 七、开源运维监控
 
 > Jenkins
@@ -220,10 +226,11 @@
 
 * [2022.03.28] -  [2021-log4j2漏洞复现CVE-2021-44228](https://www.jianshu.com/p/59ae546412ed)
 
-## 十一丶Microsoft Exchange
-* [2022.03.28] -  [Microsoft Exchange ProxyLogon RCE](https://www.rapid7.com/db/modules/exploit/windows/http/exchange_proxylogon_rce/)
+## 十一丶LINUX提权
+* [2022.03.28] -  [Linux Polkit本地提权漏洞(cve-2021-4034](https://github.com/berdav/CVE-2021-4034)
 
-## 十二丶LINUX提权
-* [2022.03.28] -  [Linux Polkit本地提权漏洞(cve-2021-4034](https://github.com/berdav/CVE-2021-4034;https://www.cnblogs.com/xiongty/p/16009593.html)
+##十二丶windows提权
+* [2022.03.28] -  [windows全版本本地提权漏洞CVE-2020-0787](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION/releases/tag/1)
+
 
 此项目不定期进行更新......
