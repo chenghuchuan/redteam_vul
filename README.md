@@ -32,7 +32,8 @@
 
 > 蓝凌OA
 
-* [2021.01.07] - 暂无(希望大佬能提供) 
+* [2022.03.28] - [蓝凌OA漏洞汇总:任意文件读取+SSRF+JNDI远程命令执行+EKP 后台SQL注入漏洞 CNVD-2021-01363+任意文件写入漏洞](https://www.cnblogs.com/cn-gov/p/14961849.html)
+* [蓝凌OA漏洞汇总](https://blog.csdn.net/xd_2021/article/details/121893236)
 
 > 通达OA(TongDa OA)
 
