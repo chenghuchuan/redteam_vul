@@ -76,7 +76,8 @@
 > Apache
 
 * [2021.01.07] - [Apache Solr RCE—【CVE-2019-0192】](https://xz.aliyun.com/t/4422)
-* [2021.01.07] - [CVE-2018-1335：Apache Tika 命令注入](https://xz.aliyun.com/t/4452)
+* [2022.03.28] - [Apache Solr 漏洞汇总](https://blog.csdn.net/yangbz123/article/details/117827547)
+* [2021.01.07] - [CVE-2018-1335：Apache Tika 命令注入](https://xz.aliyun.com/t/4452)
 * [2021.01.07] - [Apache Axis1（<=1.4版本） RCE](https://xz.aliyun.com/t/5513)
 * [2021.01.07] - [Tomcat信息泄漏和远程代码执行漏洞【CVE-2017-12615/CVE-2017-12616】](https://xz.aliyun.com/t/54)
 * [2021.01.07] - [Tomcat Ghostcat - AJP协议文件读取/文件包含漏洞](https://xz.aliyun.com/t/7683)
