@@ -222,7 +222,7 @@
 ## 九丶spring
 
 * [2022.03.28] -  [Spring_Cloud_Gateway_Actuator_API_SpEL表达式注入命令执行（CVE-2022-22947）](https://vulhub.org/#/environments/spring/CVE-2022-22947/)
-* [2022.03.28] -  [Spring Cloud Function_SPEL表达式注入漏洞_RCE](https://github.com/cckuailong/spring-cloud-function-SpEL-RCE)
+* [2022.03.28] -  [Spring Cloud Function_SPEL表达式注入漏洞_RCE](https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE)
 
 ## 十丶log4j2
 
