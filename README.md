@@ -76,7 +76,7 @@
 > Apache
 
 * [2021.01.07] - [Apache Solr RCE—【CVE-2019-0192】](https://xz.aliyun.com/t/4422)
-* [2022.03.28] - [Apache Solr 漏洞汇总](https://blog.csdn.net/yangbz123/article/details/117827547)
+* [2022.03.28] - [Apache Solr RCE 漏洞利用姿势合集](https://blog.csdn.net/yangbz123/article/details/117827547)
 * [2021.01.07] - [CVE-2018-1335：Apache Tika 命令注入](https://xz.aliyun.com/t/4452)
 * [2021.01.07] - [Apache Axis1（<=1.4版本） RCE](https://xz.aliyun.com/t/5513)
 * [2021.01.07] - [Tomcat信息泄漏和远程代码执行漏洞【CVE-2017-12615/CVE-2017-12616】](https://xz.aliyun.com/t/54)
@@ -219,19 +219,43 @@
 * [2021.03.10] -  [齐治堡垒机远程代码执行](https://forum.ywhack.com/viewthread.php?tid=1523)
 
 
-## 九丶spring
+## 九丶框架漏洞
+
+> spring
 
 * [2022.03.28] -  [Spring_Cloud_Gateway_Actuator_API_SpEL表达式注入命令执行（CVE-2022-22947）](https://vulhub.org/#/environments/spring/CVE-2022-22947/)
 * [2022.03.28] -  [Spring Cloud Function_SPEL表达式注入漏洞_RCE](https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE)
+* [2022.03.31] -  [Spring历史漏洞利用姿势合集](https://github.com/LandGrey/SpringBootVulExploit)
 
-## 十丶log4j2
+> Thinkphp
+
+* [2022.03.31] -  [ThinkPHP5.0.X系列-PHP7环境RCE-GetShell 利用方式](https://www.cnblogs.com/wkzb/p/14156026.html)
+* [2022.03.31] -  [ThinkPHP历史漏洞合集](https://vulhub.org/#/environments/thinkphp/5.0.23-rce/)
+* [2022.03.31] -⚒️[ThinkPHP漏洞利用工具](https://github.com/Lotus6/ThinkphpGUI/releases/download/1.3/ThinkphpGUI-1.3-SNAPSHOT.jar)
+
+> Struts2
+
+* [2022.03.31] -  [Struts2历史漏洞合集](https://vulhub.org/#/environments/struts2/s2-061/)
+* [2022.03.31] -⚒️[Struts2漏洞利用工具](https://github.com/HatBoy/Struts2-Scan)
+
+> Shiro
+
+* [2022.03.31] -⚒️[Shrio反序列化](https://github.com/feihong-cs/ShiroExploit-Deprecated/releases/tag/v2.51)
+* [2022.03.31] -  [Shrio未授权访问](https://blog.csdn.net/qq_44880255/article/details/119605150)
+
+## 十丶Apache-log4j2
 
 * [2022.03.28] -  [2021-log4j2漏洞复现CVE-2021-44228](https://www.jianshu.com/p/59ae546412ed)
 
-## 十一丶LINUX提权
-* [2022.03.28] -  [Linux Polkit本地提权漏洞(cve-2021-4034](https://github.com/berdav/CVE-2021-4034)
+## 十一丶提权姿势
 
-##十二丶windows提权
+> Linux提权
+
+* [2022.03.28] - [Linux Polkit本地提权漏洞(cve-2021-4034](https://github.com/berdav/CVE-2021-4034)
+* [2022.03.31] - [Linux-提权漏洞利用合集](https://github.com/SecWiki/linux-kernel-exploits)
+
+> windows提权
+
 * [2022.03.28] -  [windows全版本本地提权漏洞CVE-2020-0787](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION/releases/tag/1)
 
 
