@@ -261,4 +261,9 @@
 * [2022.03.28] -  [windows全版本本地提权漏洞CVE-2020-0787](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION/releases/tag/1)
 
 
+## 十二丶分布式数据存储
+
+* [2022.05.10] - [Druid-RCE-CVE-2021-25646](https://blog.csdn.net/qq_45813980/article/details/118787351)
+* [2022.05.10] - [Druid-未授权访问-伪造session登录](http://www.hackdig.com/04/hack-646941.htm)
+* [2022.05.10] - [Druid-任意文件读取-cve_2021_36749](https://blog.csdn.net/weixin_44309905/article/details/121559936)
 此项目不定期进行更新......
