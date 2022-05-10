@@ -237,6 +237,7 @@
 
 * [2022.03.31] -  [Struts2历史漏洞合集](https://vulhub.org/#/environments/struts2/s2-061/)
 * [2022.03.31] -⚒️[Struts2漏洞利用工具](https://github.com/HatBoy/Struts2-Scan)
+* [2022.05.10]-[struts2-062-RCE](https://blog.csdn.net/qq_44110340/article/details/124279481)
 
 > Shiro
 
