@@ -118,6 +118,7 @@
 * [2021.01.07] - [GitLab 远程代码执行漏洞 -【CVE-2018-14364】](https://xz.aliyun.com/t/2661)
 * [2021.01.07] - [GitLab 任意文件读取 (CVE-2016-9086) 和任意用户token泄露漏洞](https://xz.aliyun.com/t/393)
 * [2021.01.07] - [GitLab历史漏洞合集](https://sploitus.com/?query=Gitlab#exploits)
+* [2022.05.10] - [GitLab-RCE-CVE-2021-22205](https://saucer-man.com/information_security/846.html#cl-3)
 
 > SVN
 
