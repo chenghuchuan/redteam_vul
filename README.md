@@ -66,7 +66,7 @@
 
 > Coremail
 
-* [2021.01.07] - [Coremail 配置信息泄露及接口未授权漏洞](https://www.lsablog.com/networksec/penetration/coremail-info-leakage-and-webservice-unauthorization-reproduce/)
+* [2021.01.07] - [Coremail 配置信息泄露及接口未授权漏洞](https://blog.51cto.com/u_15162069/2900037)
 * [2021.01.07] - [Coremail 存储型XSS漏洞](https://www.seebug.org/vuldb/ssvid-94754)
 * [2021.01.07] - [Coremail 历史漏洞合集](https://sploitus.com/?query=Coremail#exploits)
 
