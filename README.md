@@ -266,4 +266,9 @@
 * [2022.05.10] - [Druid-RCE-CVE-2021-25646](https://blog.csdn.net/qq_45813980/article/details/118787351)
 * [2022.05.10] - [Druid-未授权访问-伪造session登录](http://www.hackdig.com/04/hack-646941.htm)
 * [2022.05.10] - [Druid-任意文件读取-cve_2021_36749](https://blog.csdn.net/weixin_44309905/article/details/121559936)
+
+## 十三丶其他
+* [2022.05.17] - [CVE-2022-1388-F5 BIG-IP链路控制器- RCE](https://github.com/0xf4n9x/CVE-2022-1388)
+* [2022.05.17] - [(CVE-2022-30525)Zyxel 防火墙远程命令注入](https://github.com/Henry4E36/CVE-2022-30525)
+
 此项目不定期进行更新......
